@@ -1,0 +1,55 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Mint Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(28, 28, 28)",
+      "toolbar_text": "rgb(62, 180, 137)",
+      "frame": "rgb(28, 28, 28)",
+      "tab_background_text": "rgb(62, 180, 137)",
+      "toolbar_field": "rgb(28, 28, 28)",
+      "toolbar_field_text": "rgb(62, 180, 137)",
+      "tab_line": "rgb(62, 180, 137)",
+      "popup": "rgb(28, 28, 28)",
+      "popup_text": "rgb(62, 180, 137)",
+      "icons": "rgb(62, 180, 137)",
+      "ntp_background": "rgb(28, 28, 28)",
+      "ntp_text": "rgb(62, 180, 137)",
+      "popup_border": "rgb(62, 180, 137)",
+      "popup_highlight_text": "rgb(62, 180, 137)",
+      "popup_highlight": "rgb(18, 18, 18)",
+      "sidebar_border": "rgb(62, 180, 137)",
+      "sidebar_highlight_text": "rgb(62, 180, 137)",
+      "sidebar_highlight": "rgb(62, 180, 137)",
+      "sidebar_text": "rgb(62, 180, 137)",
+      "sidebar": "rgb(28, 28, 28)",
+      "tab_background_separator": "rgb(28, 28, 28)",
+      "tab_loading": "rgb(62, 180, 137)",
+      "tab_selected": "rgb(28, 28, 28)",
+      "tab_text": "rgb(62, 180, 137)",
+      "toolbar_bottom_separator": "rgb(28, 28, 28)",
+      "toolbar_field_border_focus": "rgb(62, 180, 137)",
+      "toolbar_field_border": "rgb(28, 28, 28)",
+      "toolbar_field_focus": "rgb(28, 28, 28)",
+      "toolbar_field_highlight": "rgb(58, 101, 86)",
+      "toolbar_field_separator": "rgb(28, 28, 28)",
+      "toolbar_field_text_focus": "rgb(62, 180, 137)",
+      "toolbar_top_separator": "rgb(28, 28, 28)",
+      "toolbar_vertical_separator": "rgb(28, 28, 28)"
+    }
+  }
+}
