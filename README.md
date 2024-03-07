@@ -4,7 +4,7 @@
 
 A dark minimalist Mint theme for Firefox
 
-### Install
+## Install
 
 Download the theme as a Firefox add-on:
 <https://addons.mozilla.org/fi/firefox/addon/mint-dark-minimal/>
